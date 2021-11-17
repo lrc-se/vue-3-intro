@@ -10,6 +10,7 @@ Quick-and-dirty intro to [Vue 3](https://v3.vuejs.org/guide/introduction.html), 
 - Computed values
 - Watchers
 - Lifecycle hooks
+- Provide/inject
 - Template refs
 - Scoped styles
 - Data binding
